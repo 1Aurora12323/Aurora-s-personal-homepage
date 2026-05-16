@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Business photo placeholder</title>
+  <desc id="desc">A neutral placeholder for a full-body business photo.</desc>
+  <rect width="900" height="1200" fill="#eef3f8"/>
+  <rect x="96" y="96" width="708" height="1008" rx="8" fill="#ffffff" stroke="#dce3ec" stroke-width="3"/>
+  <circle cx="450" cy="360" r="112" fill="#d9e3ec"/>
+  <path d="M278 548h344l72 342H206l72-342z" fill="#d9e3ec"/>
+  <rect x="330" y="742" width="240" height="240" rx="8" fill="#f3ead9"/>
+  <text x="450" y="1042" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700" fill="#10243c">Business Photo</text>
+</svg>
